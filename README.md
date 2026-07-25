@@ -6,16 +6,6 @@ An interactive Power BI dashboard analyzing a month of Ola ride-booking data, co
 
 The report is built as a 5-page interactive dashboard on top of a single ride-bookings table, with a date slicer on every page so metrics can be filtered to any time window. Navigation between pages is handled through in-report action buttons.
 
-## Preview
-
-<p align="center">
-  <img src="dashboard_preview_1.png" width="420"/>
-  <img src="dashboard_preview_2.png" width="420"/>
-  <img src="dashboard_preview_3.png" width="420"/>
-  <img src="dashboard_preview_4.png" width="420"/>
-  <img src="dashboard_preview_5.png" width="420"/>
-</p>
-
 ## Dashboard Pages
 
 | Page | What it shows |
@@ -37,7 +27,6 @@ The report is built as a 5-page interactive dashboard on top of a single ride-bo
 | File | Description |
 |---|---|
 | `Ola.pbix` | The full Power BI report — data model, DAX measures, and all 5 report pages |
-| `images/` | Dashboard preview screenshots referenced in this README |
 | `README.md` | Project documentation |
 
 ## Getting Started
