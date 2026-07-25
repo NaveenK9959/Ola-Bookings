@@ -9,11 +9,11 @@ The report is built as a 5-page interactive dashboard on top of a single ride-bo
 ## Preview
 
 <p align="center">
-  <img src="images/dashboard_preview_1.png" width="420"/>
-  <img src="images/dashboard_preview_2.png" width="420"/>
-  <img src="images/dashboard_preview_3.png" width="420"/>
-  <img src="images/dashboard_preview_4.png" width="420"/>
-  <img src="images/dashboard_preview_5.png" width="420"/>
+  <img src="dashboard_preview_1.png" width="420"/>
+  <img src="dashboard_preview_2.png" width="420"/>
+  <img src="dashboard_preview_3.png" width="420"/>
+  <img src="dashboard_preview_4.png" width="420"/>
+  <img src="dashboard_preview_5.png" width="420"/>
 </p>
 
 ## Dashboard Pages
